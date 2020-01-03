@@ -4,7 +4,7 @@
 #
 Name     : R-RaschSampler
 Version  : 0.8.8
-Release  : 14
+Release  : 15
 URL      : https://cran.r-project.org/src/contrib/RaschSampler_0.8-8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RaschSampler_0.8-8.tar.gz
 Summary  : Rasch Sampler
